@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zce Ping</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h3 align="center">A passionate backend developer from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=username404notfound123&label=Profile%20views&color=0e75b6&style=flat" alt="username404notfound123" /> </p>
 
